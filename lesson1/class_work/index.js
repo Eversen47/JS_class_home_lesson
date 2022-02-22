@@ -1,29 +1,7 @@
 console.log("HELLO JAVASCRIPT");
 
+const myName = "Anton Lisin";
 
-const planetName = "Земля";
-console.log("Земля"); 
+console.log(myName);
 
-
-Data = new Date();
-console.log(Data); 
-document.write(Data);
-alert(Data);
-
-
-let articles = 21;
-articles = 18;
-console.log(articles);
-
-
-console.log("cash or cashless");
-
-
-let name = ['firstName', 'lastName', 'middleName'];
-console.log(name);
-
-
-
-
-
-
+console.log("Я  запустил NODE JS");
