@@ -22,6 +22,7 @@ console.log("cash or cashless");
 let name = ['firstName', 'lastName', 'middleName'];
 console.log(name);
 
+BarProp
 
 
 
